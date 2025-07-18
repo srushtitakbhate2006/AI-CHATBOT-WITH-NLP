@@ -69,3 +69,5 @@ Interact with the chatbot through the terminal. You can type greetings, question
 Srushti Takbhate GitHub Profile
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/9d630f60-8dcc-4c71-b296-4ca20de84a99)
